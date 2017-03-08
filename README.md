@@ -1,7 +1,7 @@
-# React Native Twilio IP Messaging
+# React Native Twilio IP Messaging (Deprecated)
 [![npm version](https://badge.fury.io/js/react-native-twilio-ip-messaging.svg)](https://badge.fury.io/js/react-native-twilio-ip-messaging)
 
->React Native wrapper for the Twilio IP Messaging SDKs
+**NOTE:** This package is for the original Twilio IP Messaging SDKs. If you are using the newer [Twilio Chat SDKs](https://www.twilio.com/docs/api/chat), please use our new package [react-native-twilio-chat](https://github.com/ccm-innovation/react-native-twilio-chat) for the correct wrappers.
 
 ####[Changelog](CHANGELOG.md)
 
